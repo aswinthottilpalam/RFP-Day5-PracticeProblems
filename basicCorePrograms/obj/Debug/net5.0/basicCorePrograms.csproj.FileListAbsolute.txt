@@ -1,0 +1,16 @@
+E:\desktop\newpgm\basicCorePrograms\basicCorePrograms\bin\Debug\net5.0\basicCorePrograms.exe
+E:\desktop\newpgm\basicCorePrograms\basicCorePrograms\bin\Debug\net5.0\basicCorePrograms.deps.json
+E:\desktop\newpgm\basicCorePrograms\basicCorePrograms\bin\Debug\net5.0\basicCorePrograms.runtimeconfig.json
+E:\desktop\newpgm\basicCorePrograms\basicCorePrograms\bin\Debug\net5.0\basicCorePrograms.runtimeconfig.dev.json
+E:\desktop\newpgm\basicCorePrograms\basicCorePrograms\bin\Debug\net5.0\basicCorePrograms.dll
+E:\desktop\newpgm\basicCorePrograms\basicCorePrograms\bin\Debug\net5.0\basicCorePrograms.pdb
+E:\desktop\newpgm\basicCorePrograms\basicCorePrograms\obj\Debug\net5.0\basicCorePrograms.csproj.AssemblyReference.cache
+E:\desktop\newpgm\basicCorePrograms\basicCorePrograms\obj\Debug\net5.0\basicCorePrograms.GeneratedMSBuildEditorConfig.editorconfig
+E:\desktop\newpgm\basicCorePrograms\basicCorePrograms\obj\Debug\net5.0\basicCorePrograms.AssemblyInfoInputs.cache
+E:\desktop\newpgm\basicCorePrograms\basicCorePrograms\obj\Debug\net5.0\basicCorePrograms.AssemblyInfo.cs
+E:\desktop\newpgm\basicCorePrograms\basicCorePrograms\obj\Debug\net5.0\basicCorePrograms.csproj.CoreCompileInputs.cache
+E:\desktop\newpgm\basicCorePrograms\basicCorePrograms\obj\Debug\net5.0\basicCorePrograms.dll
+E:\desktop\newpgm\basicCorePrograms\basicCorePrograms\obj\Debug\net5.0\refint\basicCorePrograms.dll
+E:\desktop\newpgm\basicCorePrograms\basicCorePrograms\obj\Debug\net5.0\basicCorePrograms.pdb
+E:\desktop\newpgm\basicCorePrograms\basicCorePrograms\obj\Debug\net5.0\basicCorePrograms.genruntimeconfig.cache
+E:\desktop\newpgm\basicCorePrograms\basicCorePrograms\obj\Debug\net5.0\ref\basicCorePrograms.dll
